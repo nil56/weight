@@ -52,3 +52,15 @@ export default tseslint.config({
   },
 })
 ```
+
+## TODO
+
+- [x] translations
+- [ ] themes
+- [ ] precommit (ts, eslint, pettier) for changes
+- [ ] PWA
+- [ ] deploy
+- [ ] sentry
+- [ ] CI/CD
+- [ ] backend
+- [ ] SSR
